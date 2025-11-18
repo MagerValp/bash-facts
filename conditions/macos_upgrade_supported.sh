@@ -62,7 +62,6 @@ tahoe_upgrade_supported() {
     MacBookAir10,1 | \
     MacBookPro16,1 | \
     MacBookPro16,2 | \
-    MacBookPro16,3 | \
     MacBookPro16,4 | \
     MacBookPro17,1 | \
     MacBookPro18,1 | \
